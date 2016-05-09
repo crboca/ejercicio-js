@@ -16,7 +16,7 @@ $(document).ready(function(){
 	});
 
 
-// MOBILE - Icono Menu Hamburguesa
+// MOBILE - Icono Menu Hamburguesa //
 
 	$('#mobile-button').click(function() {
 		var menu = $('#menu-container');  
